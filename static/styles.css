@@ -508,3 +508,10 @@ html, body {
 .slices_item__count {
     margin-left: 15px;
 }
+
+.slices_item__title {
+    max-width: 65%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
