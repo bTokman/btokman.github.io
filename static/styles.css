@@ -302,6 +302,8 @@ html, body {
 
 .charts_wrapper {
     padding-top: 45px;
+    padding-bottom: 50px;
+    background: #fff;
 }
 
 .charts_wrapper .metric_title {
