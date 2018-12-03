@@ -169,7 +169,7 @@ html, body {
 }
 
 .search__wrapper input {
-    width: 60%;
+    width: 90%;
     height: 40px;
     margin-top: 5px;
     margin-left: 5%;
@@ -179,6 +179,8 @@ html, body {
     font-size: 14px;
     border: 2px solid #efefef;
     padding: 0px 10px 0px 10px;
+    -webkit-appearance: none;
+    border-radius: 0;
 }
 
 .ac_weapper {
